@@ -1,0 +1,15 @@
+C:\Users\BigPenis\VVed v prog 3 seminar DZ\21\bin\Debug\net7.0\21.exe
+C:\Users\BigPenis\VVed v prog 3 seminar DZ\21\bin\Debug\net7.0\21.deps.json
+C:\Users\BigPenis\VVed v prog 3 seminar DZ\21\bin\Debug\net7.0\21.runtimeconfig.json
+C:\Users\BigPenis\VVed v prog 3 seminar DZ\21\bin\Debug\net7.0\21.dll
+C:\Users\BigPenis\VVed v prog 3 seminar DZ\21\bin\Debug\net7.0\21.pdb
+C:\Users\BigPenis\VVed v prog 3 seminar DZ\21\obj\Debug\net7.0\21.csproj.AssemblyReference.cache
+C:\Users\BigPenis\VVed v prog 3 seminar DZ\21\obj\Debug\net7.0\21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BigPenis\VVed v prog 3 seminar DZ\21\obj\Debug\net7.0\21.AssemblyInfoInputs.cache
+C:\Users\BigPenis\VVed v prog 3 seminar DZ\21\obj\Debug\net7.0\21.AssemblyInfo.cs
+C:\Users\BigPenis\VVed v prog 3 seminar DZ\21\obj\Debug\net7.0\21.csproj.CoreCompileInputs.cache
+C:\Users\BigPenis\VVed v prog 3 seminar DZ\21\obj\Debug\net7.0\21.dll
+C:\Users\BigPenis\VVed v prog 3 seminar DZ\21\obj\Debug\net7.0\refint\21.dll
+C:\Users\BigPenis\VVed v prog 3 seminar DZ\21\obj\Debug\net7.0\21.pdb
+C:\Users\BigPenis\VVed v prog 3 seminar DZ\21\obj\Debug\net7.0\21.genruntimeconfig.cache
+C:\Users\BigPenis\VVed v prog 3 seminar DZ\21\obj\Debug\net7.0\ref\21.dll
